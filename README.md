@@ -1,14 +1,22 @@
-👋 Hi, I’m @HimanayK, a Frontend Developer with a passion for building responsive and user-friendly web applications.
+👋 Hi, I’m Himanay Khajuria, a Frontend Developer who loves turning ideas into interactive and dynamic web applications.
 
-👀 I’m interested in crafting intuitive UI designs, optimizing web performance and contributing to innovative projects in web development.
+💻 My expertise lies in:
 
-💞️ I’m looking to collaborate on projects involving React, JavaScript and modern frontend technologies to create impactful solutions.
+-HTML, CSS, and JavaScript for building clean and efficient codebases.
 
-📫 How to reach me: Connect with me on https://www.linkedin.com/in/himanayk/ or email me at himanay.k@gmail.com.
+-React Framework for creating dynamic and interactive user interfaces.
 
-😄 Pronouns: She/Her
+-Agile Methodologies to deliver projects efficiently and collaboratively.
 
-⚡ Fun fact: My journey into IT was inspired by exploring platforms like Pink Programming and Women in Tech, which helped me transition my career into web development.
+-Tools like Git/GitHub, Jira and Jenkins to streamline development workflows.
+
+💞️ I’m looking to collaborate on projects that focus on building intuitive UI designs, optimizing web performance and creating impactful digital experiences.
+
+📫 Let’s connect! Reach out via https://www.linkedin.com/in/himanayk/ or email me at himanay.k@gmail.com.
+
+⚡ Fun fact: My journey into IT was inspired by platforms like Pink Programming and Women in Tech, which motivated me to transition into a tech career and pursue my passion for innovation.
+
+
 
 <!---
 HimanayK/HimanayK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 
 💻 My expertise lies in:
 
--HTML, CSS, and JavaScript for building clean and efficient codebases.
+-HTML, CSS, Tailwind CSS, Bootstrap and JavaScript for building clean and efficient codebases.
 
 -React Framework for creating dynamic and interactive user interfaces.
 

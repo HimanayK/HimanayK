@@ -5,6 +5,8 @@
 
 </>👩🏼‍💻 **I specialize in** crafting seamless digital experiences with **⚡Agile methodologies, 🎨 UI/UX design and 📈 performance optimization** to deliver impactful solutions.<br><br>
 
+📌 Innovative Projects: Currently working on innovative projects to enhance user experience and optimize web performance through creative problem-solving.<br><br>
+
 🤓👉🏼 **Fun Fact:** My journey into IT was inspired by **👩‍💻 Pink Programming** and **🌍 Women in Tech**, that motivated me to transition into a tech career.<br><br>
 
 📩 **Let’s connect!** Find me on [LinkedIn](https://www.linkedin.com/in/himanayk/) or 📧 email me at himanay.k@gmail.com<br><br>

@@ -1,22 +1,78 @@
-👋 Hi, I’m Himanay Khajuria, a Frontend Developer who loves turning ideas into interactive and dynamic web applications.
+# ✨ About Me:
 
-💻 My expertise lies in:
+🚀 **I’m currently working on** building dynamic and interactive web applications using React JavaScript and modern UI frameworks.<br><br>
+🤝 **I’m looking to collaborate on** projects that focus on crafting intuitive UI designs optimizing web performance and enhancing user experiences.<br><br>
+🆘 **I’m looking for help with** exploring advanced design systems improving accessibility and integrating seamless animations.<br><br>
+🌱 **I’m currently learning** advanced React concepts performance optimization and UX/UI best practices.<br><br>
+💡 **Ask me about** frontend development React best practices and optimizing web applications for speed and accessibility.<br><br>
+🎉 **Fun fact** My journey into IT was inspired by Pink Programming and Women in Tech which motivated me to pursue my passion for innovation.<br><br>
+📩 **Let’s connect!** Find me on [LinkedIn](https://www.linkedin.com/in/himanayk/) or email me at himanay.k@gmail.com<br><br>
 
--HTML, CSS, Tailwind CSS, Bootstrap and JavaScript for building clean and efficient codebases.
+---
 
--React Framework for creating dynamic and interactive user interfaces.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanayk/)
 
--Agile Methodologies to deliver projects efficiently and collaboratively.
+---
 
--Tools like Git/GitHub, Jira and Jenkins to streamline development workflows.
+# 💻 Tech Stack & Skills:
 
-💞️ I’m looking to collaborate on projects that focus on building intuitive UI designs, optimizing web performance and creating impactful digital experiences.
+### 🚀 Frontend Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-%230074D9.svg?style=for-the-badge)
 
-📫 Let’s connect! Reach out via https://www.linkedin.com/in/himanayk/ or email me at himanay.k@gmail.com
+### 🎨 UI/UX & Styling
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![UI/UX Design](https://img.shields.io/badge/UI/UX-Design-%23E34F26.svg?style=for-the-badge)
 
-⚡ Fun fact: My journey into IT was inspired by platforms - Pink Programming and Women in Tech, motivated me to transition into a tech career and pursue my passion for innovation.
+### 🔧 State Management & Build Tools
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Vuex](https://img.shields.io/badge/vuex-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+![Context API](https://img.shields.io/badge/Context-API-%230074D9.svg?style=for-the-badge)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Babel](https://img.shields.io/badge/babel-%23F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black)
+![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
+### 🔍 Testing & Debugging
+![Cypress](https://img.shields.io/badge/cypress-%23004D40.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-API-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem-Solving-%230074D9.svg?style=for-the-badge)
+![Debugging](https://img.shields.io/badge/Debugging-%230074D9.svg?style=for-the-badge)
 
+### ⚡ Web Performance & Security
+![Web Performance](https://img.shields.io/badge/Web-Performance-%230074D9.svg?style=for-the-badge)
+![RESTful APIs](https://img.shields.io/badge/RESTful-APIs-%230074D9.svg?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![Web Security](https://img.shields.io/badge/Web-Security-%230074D9.svg?style=for-the-badge)
+
+### 🔄 Version Control & Agile Tools
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%230074D9.svg?style=for-the-badge&logo=trello&logoColor=white)
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HimanayK&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HimanayK&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanayK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=HimanayK&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=HimanayK&icon=9&color=5)](https://visitcount.itsvg.in)
 
 <!---
 HimanayK/HimanayK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

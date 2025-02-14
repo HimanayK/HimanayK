@@ -5,8 +5,7 @@
 
 </>👩🏼‍💻 **I specialize in** crafting seamless digital experiences with **⚡Agile methodologies, 🎨 UI/UX design and 📈 performance optimization** to deliver impactful solutions.<br><br>
 
-🤓👉🏼 ![HandFredHardingGIF](https://github.com/user-attachments/assets/1a4e51a2-1b9a-4023-b745-a35125a33554)
- **Fun Fact:** My journey into IT was inspired by **👩‍💻 Pink Programming** and **🌍 Women in Tech**, that motivated me to transition into a tech career.<br><br>
+🤓👉🏼 **Fun Fact:** My journey into IT was inspired by **👩‍💻 Pink Programming** and **🌍 Women in Tech**, that motivated me to transition into a tech career.<br><br>
 
 📩 **Let’s connect!** Find me on [LinkedIn](https://www.linkedin.com/in/himanayk/) or 📧 email me at himanay.k@gmail.com<br><br>
 

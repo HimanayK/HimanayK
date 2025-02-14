@@ -15,6 +15,9 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanayk/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:himanay.k@gmail.com)
+[![Netlify](https://app.netlify.com/teams/himanayk/sites?creator=me&visibility=public)
+
 
 ---
 

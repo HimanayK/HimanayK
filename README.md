@@ -1,13 +1,13 @@
 # ✨ About Me:
 
 👋🏼 **Hey there!**<br><br>
-👧🏼 I'm **Himanay Khajuria**, **Frontend Developer** at **SITA.dev**, building **dynamic and interactive web applications** using **⚛️ React, ⚙️ JavaScript and 🖌️ modern UI frameworks**.<br><br>
+👧🏼 I'm **Himanay Khajuria**, **Frontend Developer** at **SITA.dev**, building **dynamic and interactive web applications** using **⚛️ React, ⚙️ JavaScript and 🖌️ modern UI frameworks**.<br>
 
-</>👩🏼‍💻 **I specialize in** crafting seamless digital experiences with **⚡Agile methodologies, 🎨 UI/UX design and 📈 performance optimization** to deliver impactful solutions.<br><br>
+</>👩🏼‍💻 **I specialize in** crafting seamless digital experiences with **⚡Agile methodologies, 🎨 UI/UX design and 📈 performance optimization** to deliver impactful solutions.<br>
 
-📌 Projects: Currently working on innovative projects to enhance user experience and optimize web performance through creative problem-solving.<br><br>
+📌 Projects: Currently working on innovative projects to enhance user experience and optimize web performance through creative problem-solving.<br>
 
-🤓👉🏼 **Fun Fact:** My journey into IT was inspired by **👩‍💻 Pink Programming** and **🌍 Women in Tech**, that motivated me to transition into a tech career.<br><br>
+🤓👉🏼 **Fun Fact:** My journey into IT was inspired by **👩‍💻 Pink Programming** and **🌍 Women in Tech**, that motivated me to transition into a tech career.<br>
 
 📩 **Let’s connect!** Find me on [LinkedIn](https://www.linkedin.com/in/himanayk/) or 📧 email me at himanay.k@gmail.com ⬅️<br><br>
 

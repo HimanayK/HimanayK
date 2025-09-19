@@ -13,6 +13,7 @@
   - 📈 **Performance Optimization**
 
 📂 **Projects:** Currently working on innovative projects to enhance user experience and optimize web performance through creative problem-solving and modern technologies.
+🅿️ [Technical Presentations](https://youtube.com/playlist?list=PLr_e107KkJ9mf0GXvgh12wuY1Vskcu89A&si=-CPQhaZhF1T6VleT)
 
 🤓👉🏼 **Fun Fact:** My journey into IT was inspired by 👩‍💻 Pink Programming and 🌍 Women in Tech, that motivated me to transition into a tech career.
 
